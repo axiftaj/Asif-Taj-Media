@@ -1,0 +1,6 @@
+framework module FirebaseStorageInternal {
+  umbrella header "FirebaseStorageInternal-umbrella.h"
+
+  export *
+  module * { export * }
+}
