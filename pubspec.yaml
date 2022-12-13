@@ -36,10 +36,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^6.0.3
   fluttertoast: ^8.0.9
-  firebase_core: ^1.23.0
-  firebase_database: ^9.1.5
-  firebase_storage: ^10.3.9
+  firebase_auth: ^4.1.5
+  firebase_storage: ^11.0.6
   image_picker: ^0.8.5+3
+  firebase_core: ^2.3.0
+  firebase_database: ^10.0.6
+  persistent_bottom_nav_bar:
   flutter_svg: ^1.1.5
 
 
